@@ -1,4 +1,4 @@
-# Proprietary License Agreement
+﻿# Proprietary License Agreement
 
 # Copyright (c) 2024-29 CodWiz
 
