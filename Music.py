@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Proprietary License Agreement
 
 # Copyright (c) 2024-29 CodWiz
